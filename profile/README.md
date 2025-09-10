@@ -9,6 +9,7 @@ Clean UX, no‑nonsense utilities, and a focus on speed, accuracy, and privacy.
 - Contact: contact@alphanumate.com
 - Twitter/X: https://twitter.com/alphanumate
 - LinkedIn: https://www.linkedin.com/company/alphanumate
+- Facebook: https://www.facebook.com/alphanumate
 
 ## Quick links
 
