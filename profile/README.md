@@ -3,6 +3,8 @@
 Fast, reliable tools for working with text and alphanumeric data.  
 Clean UX, no‑nonsense utilities, and a focus on speed, accuracy, and privacy.
 
+[![Website](https://img.shields.io/badge/Website-alphanumate.com-blue?logo=google-chrome)](https://alphanumate.com/?utm_source=github&utm_medium=group_readme)
+
 - Website: https://alphanumate.com/
 - Contact: contact@alphanumate.com
 - Twitter/X: https://twitter.com/alphanumate
@@ -10,7 +12,8 @@ Clean UX, no‑nonsense utilities, and a focus on speed, accuracy, and privacy.
 
 ## Quick links
 
-- Org home: https://github.com/alphanumate
+- GitHub Org: https://github.com/alphanumate
+- GitLab Group: https://gitlab.com/alphanumate
 - Report a bug/idea: open an Issue in the relevant repo
 - Security: email security reports to contact@alphanumate.com
 
