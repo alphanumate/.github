@@ -11,7 +11,7 @@ Clean UX, no‑nonsense utilities, and a focus on speed, accuracy, and privacy.
 ## Quick links
 
 - Org home: https://github.com/alphanumate
-- Handbook (public): https://github.com/alphanumate/handbook (coming soon)
+- Internal handbook: private repo (SEO/outreach playbooks)
 - Report a bug/idea: open an Issue in the relevant repo
 - Security: email security reports to contact@alphanumate.com (private)
 
