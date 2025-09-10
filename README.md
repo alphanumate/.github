@@ -5,15 +5,14 @@ Clean UX, no‑nonsense utilities, and a focus on speed, accuracy, and privacy.
 
 - Website: https://alphanumate.com/
 - Contact: contact@alphanumate.com
-- Twitter/X: https://twitter.com/alphanumate (coming soon)
-- LinkedIn: https://www.linkedin.com/company/alphanumate (coming soon)
+- Twitter/X: https://twitter.com/alphanumate
+- LinkedIn: https://www.linkedin.com/company/alphanumate
 
 ## Quick links
 
 - Org home: https://github.com/alphanumate
-- Internal handbook: private repo (SEO/outreach playbooks)
 - Report a bug/idea: open an Issue in the relevant repo
-- Security: email security reports to contact@alphanumate.com (private)
+- Security: email security reports to contact@alphanumate.com
 
 ## What we build
 
